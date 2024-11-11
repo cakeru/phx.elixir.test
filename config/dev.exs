@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :test_phoenix, TestPhoenix.Repo,
-  username: "chousour",
-  password: "Chou@2204",
+  username: "",
+  password: "",
   hostname: "localhost",
   database: "test_phoenix_dev",
   stacktrace: true,
